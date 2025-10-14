@@ -2,7 +2,7 @@ name: Setup kubeconform
 description: A GitHub Action for running kubeconform commands
 author: Stefan Prodan
 branding:
-  color: blue
+  color: red
   icon: command
 inputs:
   version:
